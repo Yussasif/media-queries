@@ -120,9 +120,12 @@ input[type="text"]:active, input[type="email"]:active, input[type="password"]:ac
     .try{
         width: 100%;
         font-size: 22px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
     form{
         width: 100%;
+        margin: 5px;
     }
     .btn{
         font-size: 12px;
